@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Anesidora Themes
 
-You can use the [editor on GitHub](https://github.com/pvrs12/AnesidoraThemes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this is to keep a repository listing themes!
+[Theme List](/ThemeList.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have a theme you'd like to share then open a Pull Request!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pvrs12/AnesidoraThemes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Guide to adding a theme:
+1. Build the theme you love
+2. Export it as a `.json` file
+3. `Fork` this repository
+4. Add your theme's `.json` file to the folder `/themes/`
+5. Edit the `ThemeList.md` to include your theme and a screenshot
+6. Click "Create Pull Request".
+7. Once everything is approved your theme will be included on this site

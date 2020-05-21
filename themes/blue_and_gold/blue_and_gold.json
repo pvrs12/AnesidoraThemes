@@ -1,0 +1,17 @@
+{
+  "background": "#1e325f",
+  "font-family": "Verdana, Arial, sans-serif",
+  "font-size": "12px",
+  "text-color": "#a0a0ff",
+  "inverse-color": "#000000",
+  "accent-color": "#ffc81e",
+  "accent-color-darker": "#ff8000",
+  "tabSize": "20px",
+  "warning-bgcolor": "#ff3722",
+  "warning-color": "#FFFFFF",
+  "album-bg": "#ffc81e",
+  "button-color": "#ffc81e",
+  "active-button-color": "#ff8000",
+  "album-color": "#1e325f",
+  "A comment to power-users": "You can set backgrounds to an image by setting 'background' or 'album-bg' to \"url('/path-to-image')\"."
+}

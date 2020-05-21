@@ -1,0 +1,17 @@
+{
+  "background": "#a6524c",
+  "font-family": "Verdana, Arial, sans-serif",
+  "font-size": "12px",
+  "text-color": "#ffffff",
+  "inverse-color": "#000000",
+  "accent-color": "#1ea8ff",
+  "accent-color-darker": "#0054ff",
+  "tabSize": "20px",
+  "warning-bgcolor": "#ff3722",
+  "warning-color": "#FFFFFF",
+  "album-bg": "#a5daff",
+  "button-color": "#ffffff",
+  "active-button-color": "#ff9c00",
+  "album-color": "#9a5ea8",
+  "A comment to power-users": "You can set backgrounds to an image by setting 'background' or 'album-bg' to \"url('/path-to-image')\". This is just a list of CSS variables."
+}

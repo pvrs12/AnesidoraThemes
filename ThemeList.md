@@ -10,3 +10,7 @@
 #### Stars
 <a href="themes/stars/stars.json" download="stars.json">stars.json</a>
 <img src="themes/stars/stars.png" />
+
+#### Pastel
+<a href="themes/pastel/pastel.json" download="pastel.json">pastel.json</a>
+<img src="themes/pastel/pastel.png" />

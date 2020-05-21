@@ -1,8 +1,8 @@
 ## Theme List
 #### Aubergine
-[aubergine.json](themes/aubergine/aubergine.json)
+<a href="themes/aubergine/aubergine.json" download="aubergine.json">aubergine.json</a>
 <img src="themes/aubergine/aubergine.png" />
 
 #### Blue and Gold
-[blue_and_gold.json](themes/blue_and_gold/blue_and_gold.json)
+<a href="themes/blue_and_gold/blue_and_gold.json" download="blue_and_gold.json">blue_and_gold.json</a>
 <img src="themes/blue_and_gold/blue_and_gold.png" />

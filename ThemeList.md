@@ -14,3 +14,7 @@
 #### Pastel
 <a href="themes/pastel/pastel.json" download="pastel.json">pastel.json</a>
 <img src="themes/pastel/pastel.png" />
+
+#### Contrast
+<a href="themes/contrast/contrast.json" download="contrast.json">contrast.json</a>
+<img src="themes/contrast/contrast.png" />
